@@ -1,6 +1,1 @@
-line 1
-Ahmad
-Hi
-KSA
-Hi
-final commit
+Hi this is the first commit and final change 
